@@ -1,16 +1,16 @@
 <div align="center">
 
-![Banner](https://user-images.githubusercontent.com/77529508/235508327-6799a37e-aff6-4c6d-b37b-286c6dd4c0f7.png)
-
-# Magoole
+<img src="https://user-images.githubusercontent.com/77529508/235508327-6799a37e-aff6-4c6d-b37b-286c6dd4c0f7.png" alt="Banner">
 
 </div>
 
-Magoole is an open source and privacy focused search engine.
+# Magoole
+
+Magoole is an open source and privacy focused search engine 🔍.
 
 <details>
 
-<summary>Features</summary>
+<summary>Features 💙</summary>
 
 - Own Crawler
 - Own website finder
@@ -22,7 +22,7 @@ Magoole is an open source and privacy focused search engine.
 
 <details>
 
-<summary>Links</summary>
+<summary>Links 🧡</summary>
 
 - [Website](https://magoole.eu.org)
 
