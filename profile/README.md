@@ -8,6 +8,9 @@
 
 Magoole is an open source and privacy focused search engine 🔍.
 
+> [!IMPORTANT]
+> This project is currently paused ! Contact me if you want to contribute / more info (contact@camarm.dev)
+
 <details>
 
 <summary>Features 💙</summary>
